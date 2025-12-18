@@ -185,10 +185,4 @@ Software Engineering Student At Binus University | Full Stack Developer
 
 ---
 
-## 📄 License
 
-This project is licensed for educational and portfolio purposes.
-
----
-
-⭐ If you find this project useful or interesting, feel free to give it a star!
