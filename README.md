@@ -176,7 +176,7 @@ They can be generated locally using the setup steps above.
 ## 👨‍💻 Author
 
 **Alvin Nabil Thoriq**
-Software Engineering Student
+Software Engineering Student At Binus University
 
 * GitHub: [alvinnabil](https://github.com/alvinnabil)
 * Portfolio: [vinndev.vercel.app](https://vinndev.vercel.app)
